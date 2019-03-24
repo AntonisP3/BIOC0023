@@ -8,3 +8,5 @@ There is a significant change in the oral microbiome after treatment with Carbon
 There is a significant reduction in the population of *Streptococcus* within the oral microbiome after treatment with Carbon Coco’s activated charcoal tooth polish, which is stated to be anti-microbial.
 
 The microbiome analysis of the sequencing data obtained was conducted through the bioinformatics pipeline QIIME. This was done by submitting jobs using the high performance computing system Cirrus. All the scripts are in the Portable Batch System (PBS) format which defines the commands and resources used to run the jobs.
+
+## Raw Sequencing Processing
